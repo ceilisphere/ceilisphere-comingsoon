@@ -145,7 +145,12 @@ header {
 
 header .logo {
     margin: 5% auto;
-    width: 30%;
+    width: 15%;
+}
+
+.logo img {
+    width: 100%;
+    height: auto;
 }
 
 header nav {
@@ -164,6 +169,10 @@ main h1 {
     letter-spacing: 3px;
     text-align: center;
     text-transform: uppercase;
+}
+
+main p {
+    padding: 5% 0;
 }
 
 main ul {
