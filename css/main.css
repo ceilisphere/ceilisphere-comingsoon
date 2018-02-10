@@ -110,6 +110,7 @@ body {
 .row {
     width: 100%;
     max-width: 600px;
+    min-width: 180px;
     margin: 0 auto;
 }
 
